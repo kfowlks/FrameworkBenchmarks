@@ -1,0 +1,3 @@
+./play-scala/app/
+./play-scala/app/controllers
+./play-scala/app/controllers/Application.scala

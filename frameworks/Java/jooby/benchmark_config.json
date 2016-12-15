@@ -1,0 +1,26 @@
+{
+  "framework": "jooby",
+  "tests": [{
+    "default": {
+      "setup_file": "setup",
+      "db_url": "/db",
+      "json_url": "/json",
+      "plaintext_url": "/plaintext",
+      "port": 8080,
+      "approach": "Realistic",
+      "classification": "Fullstack",
+      "database": "None",
+      "framework": "jooby",
+      "language": "Java",
+      "flavor": "None",
+      "orm": "Raw",
+      "platform": "Netty",
+      "webserver": "None",
+      "os": "Linux",
+      "database_os": "Linux",
+      "display_name": "Jooby",
+      "notes": "",
+      "versus": "netty"
+    }
+  }]
+}

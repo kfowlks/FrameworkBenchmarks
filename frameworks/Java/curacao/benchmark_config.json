@@ -1,0 +1,25 @@
+{
+  "framework": "curacao",
+  "tests": [{
+    "default": {
+      "setup_file": "setup",
+      "json_url": "/curacao/json",
+      "plaintext_url": "/curacao/plaintext",
+      "port": 8080,
+      "approach": "Realistic",
+      "classification": "Micro",
+      "database": "None",
+      "framework": "Curacao",
+      "language": "Java",
+      "flavor": "None",
+      "orm": "Raw",
+      "platform": "Servlet",
+      "webserver": "None",
+      "os": "Linux",
+      "database_os": "Linux",
+      "display_name": "Curacao",
+      "notes": "",
+      "versus": "servlet"
+    }
+  }]
+}

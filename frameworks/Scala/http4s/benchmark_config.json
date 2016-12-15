@@ -1,0 +1,28 @@
+{
+  "framework": "http4s",
+  "tests": [{
+    "default": {
+      "orm": "Raw",
+      "database_os": "Linux",
+      "setup_file": "setup",
+      "json_url": "/json",
+      "plaintext_url": "/plaintext",
+      "query_url": "/queries?queries=",
+      "update_url": "/updates?queries=",
+      "fortune_url": "/fortunes",
+      "port": 8080,
+      "approach": "Realistic",
+      "classification": "Micro",
+      "database": "Postgres",
+      "database_os": "Linux",
+      "db_url": "/db",
+      "framework": "http4s",
+      "language": "Scala",
+      "platform": "NIO2",
+      "webserver": "blaze",
+      "os": "Linux",
+      "display_name": "http4s",
+      "notes": ""
+    }
+  }]
+}
